@@ -2,10 +2,10 @@
 name = "skale"
 version = "0.1.0"
 edition = "2021"
+description = "A utility intended for multi-proxying web-requests."
 authors = ["Rowan Lee"]
 rust-version = "1.64.0"
 homepage = "https://rowan-lee.github.io/skale/main/index.html"
-license = "Apache-2.0"
 license-file = "LICENSE"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
